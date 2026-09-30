@@ -27,3 +27,5 @@ project-b/
 ├── README.md
 └── .gitignore
 Submodule update demonstration.
+
+Submodule new text.
