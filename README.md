@@ -26,3 +26,4 @@ project-b/
 ├── setup.py
 ├── README.md
 └── .gitignore
+Submodule update demonstration.
